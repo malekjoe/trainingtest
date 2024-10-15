@@ -3,6 +3,7 @@
 
   *{
     font-family: 'Roboto', sans-serif;
+    overflow: hidden;
   }
 
 
@@ -38,4 +39,4 @@
 }
  
 /* for Firefox */
- html {scrollbar-color: #9e4673 #3d4a59;} 
+ html {scrollbar-color: #bbbbbb #d8d8d8;} 
