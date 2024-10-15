@@ -97,6 +97,7 @@ const TopBar = ({ open, handleDrawerOpen, setMode }) => {
 
   return (
     <AppBar position="fixed" open={open}>
+  {/* testtttttttt */}
       <Toolbar>
         <IconButton
           color="inherit"
